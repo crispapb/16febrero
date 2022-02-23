@@ -1,0 +1,23 @@
+$colorcito: #ac1eac;
+$colorcito2:rgb(255, 190, 51);
+
+h2,h3,h4{
+
+    color: aqua;
+}
+
+h6{
+    color: $colorcito;
+}
+
+div{
+    h4
+    {
+    color: $colorcito2;
+    }
+    
+}
+
+.ejemplo1{
+    text-align: center;
+}
