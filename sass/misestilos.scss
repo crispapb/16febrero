@@ -1,9 +1,24 @@
 *{
     padding: 0;
+    margin: 0;
 }
+
 
 $colorcito: #ac1eac;
 $colorcito2:rgb(255, 190, 51);
+
+#presentacion{
+    padding: 5%;
+    border: 5px solid red;
+    margin: 5%;
+    max-width: 50vw;
+}
+
+.segundo{
+
+    max-width: 49vw;
+    display: inline-block;
+}
 
 h2,h3,h4{
 
