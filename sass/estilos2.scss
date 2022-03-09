@@ -1,0 +1,40 @@
+
+$fuente1: 'Smooch Sans', sans-serif;
+$color3: rgb(71, 119, 7);
+
+.prueba2{
+ font-family: $fuente1;
+}
+
+h6{
+
+    color: $color3;
+}
+.inicio{
+    position: relative;
+}
+
+.contenido{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5%;
+    background-color: rgba(127, 255, 212, 0.384);
+    font-family: 'Poppins', sans-serif;
+}
+
+.boton1{
+    text-decoration: none;
+    color: rgb(48, 6, 90);
+    padding: 20px;
+    background-color: rgb(245, 93, 6);
+    border-radius: 15px;
+    border: 2px solid palegreen;
+
+    &:hover{
+        background-color: rgb(230, 190, 11);
+        border: 0px solid palegreen;
+
+    }
+}
