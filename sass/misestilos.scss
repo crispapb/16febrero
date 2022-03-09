@@ -14,6 +14,21 @@ $colorcito2:rgb(255, 190, 51);
     max-width: 50vw;
 }
 
+.inicio{
+    position: relative;
+
+}
+
+.contenido{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5%;
+    background-color: rgba(127, 255, 212, 0.384);
+    font-family: 'Poppins', sans-serif;
+}
+
 .segundo{
 
     max-width: 49vw;
