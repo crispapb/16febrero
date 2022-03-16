@@ -31,3 +31,12 @@ h6 {
   background-color: #e6be0b;
   border: 0px solid palegreen;
 }
+
+p {
+  font-family: "Smooch Sans", sans-serif;
+}
+
+.boos1 {
+  color: antiquewhite;
+  padding: 8rem;
+}
